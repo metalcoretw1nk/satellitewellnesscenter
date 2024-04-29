@@ -1,0 +1,71 @@
+#html, body{
+  color: rgb(255, 255, 255);
+  font-family:'Courier New', Courier, monospace;
+  font-size:20px;
+  
+  text-align:center;
+  word-spacing:3px; 
+  letter-spacing: 1/2em; 
+  line-height:2em;
+  background-image:url("img1690.jpg");
+  background-size: contain;
+
+}
+
+#p5{
+  font-size: 15px;
+  text-align:left;
+  line-height:1/2px;
+  padding-bottom: 2%;
+  padding-left: 2%;
+  border: 5px dotted rgb(72, 130, 255);
+  margin: 5px
+
+}
+
+#bio{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    margin: 5px;
+    text-align: left;
+    padding-bottom: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+
+}
+
+#image1 img{
+  padding: 1%;
+  border: 10px dotted rgb(255, 0, 0);
+  margin: 1px
+}
+
+#image2 img{
+  padding: 1%;
+  border: 10px dashed rgb(255, 132, 0);
+  margin: 1px
+}
+
+#image3 img{
+  padding: 1%;
+  border: 10px dotted rgb(255, 230, 0);
+  margin: 1px
+}
+
+#image4 img{
+    padding: 1%;
+    border: 10px dashed rgb(89, 255, 0);
+    margin: 1px
+}
+
+#image5 img{
+  padding: 1%;
+  border: 10px dotted rgb(0, 128, 255);
+  margin: 1px
+}
+
+#image6 img{
+  padding: 1%;
+  border: 10px dashed rgb(195, 0, 255);
+  margin: 1px
+}

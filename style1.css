@@ -1,0 +1,12 @@
+#html, body{
+    color: rgb(0, 0, 0);
+    font-family:'Courier New', Courier, monospace;
+    font-size:20px;
+    
+    text-align:center;
+    word-spacing:3px; 
+    letter-spacing: 1/2em; 
+    line-height:2em;
+    background-image:url("pinkclouds.jpg");
+    background-size: auto;
+}  
