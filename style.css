@@ -1,5 +1,5 @@
 #html, body{
-  color: rgb(255, 255, 255);
+  color: rgb(0,0,0);
   font-family:'Courier New', Courier, monospace;
   font-size:20px;
   
@@ -7,7 +7,7 @@
   word-spacing:3px; 
   letter-spacing: 1/2em; 
   line-height:2em;
-  background-image:url(1og ssat.gif");
+  background-image:url(1og-ssat.gif");
   background-size: contain;
 
 }
