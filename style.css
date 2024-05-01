@@ -36,35 +36,35 @@
 
 #image1 img{
   padding: 1%;
-  margin: 1px
+  margin: 1px;
 }
 
 #image2 img{
   padding: 1%;
   border: 10px dashed rgb(255, 132, 0);
-  margin: 1px
+  margin: 1px;
 }
 
 #image3 img{
   padding: 1%;
   border: 10px dotted rgb(255, 230, 0);
-  margin: 1px
+  margin: 1px;
 }
 
 #image4 img{
     padding: 1%;
     border: 10px dashed rgb(89, 255, 0);
-    margin: 1px
+    margin: 1px;
 }
 
 #image5 img{
   padding: 1%;
   border: 10px dotted rgb(0, 128, 255);
-  margin: 1px
+  margin: 1px;
 }
 
 #image6 img{
   padding: 1%;
   border: 10px dashed rgb(195, 0, 255);
-  margin: 1px
+  margin: 1px;
 }
